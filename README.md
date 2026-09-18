@@ -56,6 +56,12 @@ motto: "Transforming raw data streams into intelligent, decision-ready solutions
 - 📈 **Business Intelligence & Dashboards:** Crafting interactive, executive-grade dashboards with **Power BI**, **Tableau**, and **Streamlit**.
 - 🎤 **Tech Evangelism & Speaking:** Passionate public speaker advocating data literacy, open-source technology, and the future of artificial intelligence.
 
+#### 📜 Professional Certifications & Credentials
+- 🎖️ **Certificate in Artificial Intelligence (CAI)** — **AIMCVT**  
+  *Issued: Aug 2026* • Credential ID: `261770764462` • [Verify Credential ↗](https://aimcvt.com/std-verify.php?enno=261770764462)
+- 🎖️ **Certificate in Data Science (CDA)** — **AIMCVT**  
+  *Issued: Feb 2026* • Credential ID: `251753999404` • [Verify Credential ↗](https://aimcvt.com/std-verify.php?enno=251753999404)
+
 ---
 
 ### 🛠️ Technical Ecosystem
@@ -87,7 +93,7 @@ motto: "Transforming raw data streams into intelligent, decision-ready solutions
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
 </p>
 
@@ -144,23 +150,24 @@ motto: "Transforming raw data streams into intelligent, decision-ready solutions
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="left">🧠 <a href="https://github.com/yash-kumar-patel/AI-Learning-Journey">AI Learning Journey & Deep Tech</a></h3>
-      <p><strong>Modern AI Architecture: NLP, LLMs, RAG & Autonomous Agents</strong></p>
+      <h3 align="left">🎓 <a href="https://github.com/yash-kumar-patel/eduvision-ai">EduVision AI 2.0</a></h3>
+      <p><strong>AI-Powered Academic Performance Prediction & Personalized Guidance Platform</strong></p>
       <ul>
-        <li>Hands-on implementations of cutting-edge AI: Retrieval-Augmented Generation (RAG), vector databases, prompt engineering patterns, and LangChain orchestrations.</li>
-        <li>Curated technical notes, experimental notebooks, and agentic workflows.</li>
+        <li>Production-ready educational intelligence platform predicting student academic performance and delivering tailored guidance roadmaps.</li>
+        <li>Interactive modern web platform with analytics dashboards and student progress tracking.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-        <img src="https://img.shields.io/badge/LLMs-7928CA?style=flat-square" />
-        <img src="https://img.shields.io/badge/RAG_Pipelines-007ACC?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Live_Web_App-00C853?style=flat-square" />
       </p>
       <p>
-        <a href="https://github.com/yash-kumar-patel/AI-Learning-Journey"><b>Explore Repository »</b></a>
+        <a href="https://github.com/yash-kumar-patel/eduvision-ai"><b>Explore Repository »</b></a> | 
+        <a href="https://eduvision-ai-kappa.vercel.app/" target="_blank"><b>Live Application 🚀 »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="left">🎓 <a href="https://github.com/yash-kumar-patel/Student-Wellness-AI-Analytics">Student Wellness AI Analytics</a></h3>
+      <h3 align="left">🩺 <a href="https://github.com/yash-kumar-patel/Student-Wellness-AI-Analytics">Student Wellness AI Analytics</a></h3>
       <p><strong>Predictive Psychological Wellbeing & Behavioral Data Science</strong></p>
       <ul>
         <li>Analytical system identifying stress indicators, academic pressure correlations, and wellbeing markers among students.</li>
@@ -221,12 +228,7 @@ motto: "Transforming raw data streams into intelligent, decision-ready solutions
         <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=yash-kumar-patel&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" alt="Yash's GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com/?user=yash-kumar-patel&theme=tokyonight&hide_border=true&border_radius=10" alt="Yash's GitHub Streak" width="100%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yash-kumar-patel&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="60%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yash-kumar-patel&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="100%" />
       </td>
     </tr>
   </table>
@@ -258,10 +260,13 @@ motto: "Transforming raw data streams into intelligent, decision-ready solutions
 
 ---
 
-### 💡 Daily Tech Inspiration
+### 💡 Core Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+
+> ### ❝ Without data, you're just another person with an opinion. With intelligence, you turn insight into impact. ❞
+> *— Dedicated to building reliable, data-driven AI systems.*
+
 </div>
 
 ---
